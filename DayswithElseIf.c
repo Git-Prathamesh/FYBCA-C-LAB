@@ -1,5 +1,5 @@
 #include <stdio.h>
-int maine (){
+int main (){
 	int day;
 	printf("Enter the value from 1-7");
 	scanf("%d", & day);
@@ -32,3 +32,4 @@ int maine (){
 	printf("Wrong Input");
 	}
 }
+
